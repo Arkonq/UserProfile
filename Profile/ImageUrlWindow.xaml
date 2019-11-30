@@ -14,6 +14,6 @@
         </Grid.RowDefinitions>
         <TextBlock Text="Введите Url картинки ниже:" HorizontalAlignment="Left" Margin="25,0,0,0" VerticalAlignment="Bottom" Width="163" Grid.Row="0"/>
         <TextBox x:Name="imageUrl" HorizontalAlignment="Center" VerticalAlignment="Center" Width="400" Grid.Row="1"/>
-        <Button Width="100" Content="Загрузить" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0 0 20 20" Click="LoadClick" Grid.Row="2" Background="ForestGreen" Foreground="White"/>
+        <Button Width="100" Content="Загрузить" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0 0 20 20" Click="LoadClick" Grid.Row="2" Background="Blue" Foreground="White"/>
     </Grid>
 </Window>

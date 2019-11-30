@@ -52,7 +52,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button Content="Сохранить изменения" HorizontalAlignment="Center" Grid.Row="5" VerticalAlignment="Center" Height="35" Width="250" Background="ForestGreen" Foreground="White" FontWeight="Bold" FontSize="15" Click="SaveChangesClicked"/>             
+        <Button Content="Сохранить изменения" HorizontalAlignment="Center" Grid.Row="5" VerticalAlignment="Center" Height="35" Width="250" Background="Blue" Foreground="White" FontWeight="Bold" FontSize="15" Click="SaveChangesClicked"/>             
 
     </Grid>
 </Window>
